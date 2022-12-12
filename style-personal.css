@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    background-color: #E9DAC1;
+    height: 50px;
+    color: white;
+}
+
+.logo{
+    display: flex;
+}
+
+.logo h1{
+    display: flex;
+   font-size: 20px;
+   margin-left: 10px;
+   align-items: center;
+   text-align: center;
+}
+
+.logo img{
+    margin-left: 40px;
+    width: 50px;
+    height: 40px;
+}
+
+.sub-menu{
+    height: 80px;
+    display: flex;
+    text-align: center;
+    align-items: center ;
+}
+
+.menu ul{
+    display: flex;
+}
+
+.menu li{
+    list-style: none;
+    margin-right: 20px;
+    text-align: center;
+    align-items: center;
+}
+.social-media{
+    display: flex;
+    
+}
+.social-media img{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    margin-right: 20px;
+}
+
+.hero{
+    background-color: #D9C6A5;
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+}
+
+.text{
+    width: 600px;  
+    margin-top: 50px;
+}
+
+.text h1{
+    justify-content: center;
+  margin-left: 190px;
+  margin-top: 50px;
+    
+}
+
+.text p{
+    margin-top: 10px;
+   
+}
+
+.text button{
+    background-color: beige;
+    width: 100px;
+    height: 40px;
+    margin-left: 230px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.profil img{
+    width: 290px;
+    height: 250px;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+
+.projec{
+    height: 400px;
+    text-align: right;
+    background-color: rgb(214, 210, 210);
+    width: 1200PX;
+}
+
+.judul{
+    width: 700px;
+}
+
+.judul h1{
+    margin-right: 300PX;
+}
+
+.judul p{
+    margin-right: ;
+    font-weight: 300
+}
